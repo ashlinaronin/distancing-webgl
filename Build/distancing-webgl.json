@@ -3,7 +3,7 @@
 "productName": "distancing",
 "productVersion": "0.1",
 "dataUrl": "distancing-webgl.data.unityweb",
-"wasmCodeUrl": "distancing-webgl.wasm.code.unityweb",
+"wasmCodeUrl": "distancing-webgl.wasm",
 "wasmFrameworkUrl": "distancing-webgl.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
